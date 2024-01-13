@@ -1,2 +1,2 @@
 # InterviewExperience
-In the year 2024 I started giving interviews to many different companies. This repo consists of the questions and answer in it.
+In 2024, I began interviewing with various companies. This repository contains the questions and their corresponding answers from those interviews.
