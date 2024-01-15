@@ -1,6 +1,6 @@
 ###### In Wissen Technology, 2 DSA questions and 1 entity design question was asked.
 
-### Q1) Split Array
+### Q1) [Split Array](https://www.onlinegdb.com/fork/Ptod_C-qS)
     Given an array and a splitsize value split the array in this format:
     
     int[] original = {0, 1, 2, 3, 4, 5, 6, 7, 8, 9};
@@ -15,11 +15,15 @@
 
     Return a list of array with the above output.
 
-### Q2) Flatten this Object array
+
+
+### Q2) [Flatten this Object array](https://www.onlinegdb.com/fork/O1TZTwvHT)
 
     Object[] array = { 1, 2, new Object[]{ 3, 4, new Object[]{ 5 }, 6, 7 }, 8, 9, 10 };
 
     Output -> {1, 2, 3, 4, 5, 6, 7, 8, 9, 10}
+
+    
 
 ### Q3) Design deck of cards
 
