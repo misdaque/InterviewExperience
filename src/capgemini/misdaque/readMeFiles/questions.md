@@ -97,9 +97,11 @@ class Car {
     // Other attributes and methods
 }
 
+```
+
 In this example, Car has an Engine object as a part of its composition. 
 The Engine object is created within the Car constructor, and the existence of the Engine is dependent on the existence of the Car. If the Car is destroyed, the Engine is also implicitly destroyed.
-```
+
 
 ##### 6) What is static and Dynamic Binding
 
@@ -166,3 +168,10 @@ public class DynamicBindingExample {
 ##### 10) What is finalize.
 ##### 11) What is the final Keywords
 ##### 12) Different kinds of HTTPS status code
+
+
+### In the 2nd round of the interview, I was asked all the questions that I had included in my resume. For example, questions about the projects I have worked on and the experiences I have listed
+
+## Conclusion:
+
+I was given the offer that I had asked for. There were no salary negotiations or any discussions with me. I had asked for a 93% hike, and I was given that without any further questions.
